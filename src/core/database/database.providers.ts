@@ -1,3 +1,4 @@
+import 'pg';
 import { Sequelize } from 'sequelize-typescript';
 import { SEQUELIZE, DEVELOPMENT, PRODUCTION } from '../constants';
 import { databaseConfiguration } from './database.config';

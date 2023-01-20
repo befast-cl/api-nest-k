@@ -1,4 +1,5 @@
 import * as dotenv from 'dotenv';
+import 'pg';
 import { Dialect } from 'sequelize';
 import { IDatabaseConfig } from './interfaces/db-config.interface';
 

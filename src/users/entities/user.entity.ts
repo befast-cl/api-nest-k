@@ -1,3 +1,4 @@
+import 'pg';
 import {
   InferAttributes,
   InferCreationAttributes,
